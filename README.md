@@ -14,3 +14,7 @@ The dashboard provides key insights into financial health, helping stakeholders 
 - **Trend Analysis** for monthly/quarterly financial performance.
 - **Interactive Filters** for exploring different time periods and categories.
 - **Dynamic Visuals** built with Power Query transformations and DAX me
+  
+## 👤 Author
+Monish Ravichandran  
+[LinkedIn](www.linkedin.com/in/monish-r-997a35237)
